@@ -1,3 +1,3 @@
 # Databricks-Project
-Repository containing projects that I have worked on
-![Uploading image.png…]()
+
+For this project, I will be using Databricks to demonstrate how to run PySpark and PySpark SQL queries on the platform
